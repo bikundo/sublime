@@ -1,0 +1,41 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"anaconda_php",
+		"Blade Snippets",
+		"Blade Spacer",
+		"Bootstrap 3 Jade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"CodeComplice",
+		"CodeFormatter",
+		"CSS Snippets",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Function Name Display",
+		"Git Conflict Resolver",
+		"GitGutter-Edge",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"php-snippets",
+		"Phpcs",
+		"PhpDoc",
+		"PHPIntel",
+		"PHPUnit",
+		"SublimeLinter",
+		"SublimeLinter-phplint",
+		"Twitter Bootstrap Snippets"
+	]
+}

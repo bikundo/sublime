@@ -1,0 +1,3677 @@
+{
+	"folder_history":
+	[
+		"/C/Users/peter/Code/Laravel",
+		"/C/Users/peter/Code/music",
+		"/C/Users/peter/Code/ddd/mookh-tickets",
+		"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app",
+		"/C/Users/peter/Code/skedula",
+		"/C/Users/peter/Code/scheduler",
+		"/C/Users/peter/Code/ratiba",
+		"/C/Users/peter/Code/mookh",
+		"/C/Users/peter/Downloads/xmpphp-0.1rc2-r77",
+		"/C/Users/peter/Code/folio",
+		"/C/Users/peter/Documents/home/xamp/htdocs/inuka",
+		"/C/Users/peter/Code/android",
+		"/C/Users/peter/Documents/xampp/htdocs/hewacpanel",
+		"/C/Users/peter/Documents/xampp/htdocs/dod",
+		"/C/Users/peter/Code/hewa",
+		"/C/Users/peter/Code/soon",
+		"/C/Users/peter/Documents/home/xamp/htdocs/hewacpanel",
+		"/C/Users/peter/Code/october",
+		"/C/Users/peter/Desktop/home/maridadi/maridadi-main",
+		"/C/Users/peter/Documents/homestead",
+		"/C/Users/peter/Documents/home/xamp/htdocs/folio",
+		"/C/Users/peter/Code/yh",
+		"/C/Users/peter/Documents/home/xamp/htdocs/binho",
+		"/C/Users/peter/Documents/home/xamp/htdocs/kamsi",
+		"/C/Users/peter/Documents/home/xamp/htdocs/yht",
+		"/C/Users/peter/Documents/GitHub/bikundo.github.io",
+		"/C/Users/peter/Desktop/home/blog",
+		"/C/Users/peter/Documents/home/xamp/htdocs/api",
+		"/C/Users/peter/Documents/Bootstrap-CMS-0.8",
+		"/C/Users/peter/Documents/home/maridadi/maridadi-main",
+		"/C/Users/peter/Documents/home/xamp/htdocs/evemvc",
+		"/C/Users/peter/Desktop/home/eneza_app"
+	],
+	"last_version": 3083,
+	"last_window_id": 211,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cancel",
+						"cancelUpload"
+					],
+					[
+						"wher",
+						"whereUserId"
+					],
+					[
+						"els",
+						"else	(admin.blade.php)"
+					],
+					[
+						"saveba",
+						"savebank〔function〕"
+					],
+					[
+						"sa",
+						"saveMpesa〔function〕"
+					],
+					[
+						"bank",
+						"bank_name"
+					],
+					[
+						"re",
+						"$request〔variable〕"
+					],
+					[
+						"de",
+						"details"
+					],
+					[
+						"Cl",
+						"Client"
+					],
+					[
+						"ur",
+						"url('logout"
+					],
+					[
+						"Ht",
+						"HTML-style	HTML-style"
+					],
+					[
+						"H",
+						"HTML-style	HTML-style"
+					],
+					[
+						"http",
+						"https"
+					],
+					[
+						"if",
+						"ifelse	if … else …"
+					],
+					[
+						"upp",
+						"uppercase〔value〕"
+					],
+					[
+						"with",
+						"withdrawals	(2015_05_29_000019_create_withdrawals_table.php)"
+					],
+					[
+						"fun",
+						"fun	PHP: function definition"
+					],
+					[
+						"mu",
+						"multipart	(create.blade.php)"
+					],
+					[
+						"Tra",
+						"App\\Transaction〔class〕"
+					],
+					[
+						"tra",
+						"transaction"
+					],
+					[
+						"con",
+						"contents"
+					],
+					[
+						"Song",
+						"App\\Song〔class〕"
+					],
+					[
+						"ex",
+						"ext	blade-extends"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"sec",
+						"seconds	(mp3.php)"
+					],
+					[
+						"relea",
+						"release_date"
+					],
+					[
+						"date",
+						"date_input"
+					],
+					[
+						"so",
+						"songs	(SongsController.php)"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"li",
+						"library	(CMP3Split.php)"
+					],
+					[
+						"na",
+						"namespace	(SongsController.php)"
+					],
+					[
+						"fil",
+						"$filename〔variable〕"
+					],
+					[
+						"uplo",
+						"uploaded	(index.blade.php)"
+					],
+					[
+						"bac",
+						"backend"
+					],
+					[
+						"al",
+						"albums"
+					],
+					[
+						"back",
+						"backend	(create.blade.php)"
+					],
+					[
+						"drop",
+						"dropzone"
+					],
+					[
+						"ba",
+						"backend"
+					],
+					[
+						"pu",
+						"pull	(dashboard.blade.php)"
+					],
+					[
+						"ro",
+						"role"
+					],
+					[
+						"Va",
+						"Validator"
+					],
+					[
+						"red",
+						"redirect〔function〕"
+					],
+					[
+						"des",
+						"description"
+					],
+					[
+						"Ue",
+						"Users	(ShinobiTrait.php)"
+					],
+					[
+						"rol",
+						"roles"
+					],
+					[
+						"r",
+						"role"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"fr",
+						"frontend	(register.blade.php)"
+					],
+					[
+						"la",
+						"layouts	(register.blade.php)"
+					],
+					[
+						"end",
+						"endsection	(register.blade.php)"
+					],
+					[
+						"log",
+						"logout	(routes.php)"
+					],
+					[
+						"regi",
+						"register	(app.php)"
+					],
+					[
+						"co",
+						"container"
+					],
+					[
+						"res",
+						"resources	(laravel.log)"
+					],
+					[
+						"reg",
+						"register	(app.php)"
+					],
+					[
+						"lay",
+						"layouts	(laravel.log)"
+					],
+					[
+						"da",
+						"dashboard	(routes.php)"
+					],
+					[
+						"gi",
+						"gig	(GigsController.php)"
+					],
+					[
+						"to",
+						"top	(jquery.growl.css)"
+					],
+					[
+						"gigs",
+						"gigs"
+					],
+					[
+						"ev",
+						"eventObj"
+					],
+					[
+						"In",
+						"Input-all	Input-all"
+					],
+					[
+						"po",
+						"polaris"
+					],
+					[
+						"pub",
+						"published"
+					],
+					[
+						"hi",
+						"hidden	(app.css)"
+					],
+					[
+						"overflow-",
+						"overflow-y: 〔property〕"
+					],
+					[
+						"over",
+						"overflow: 〔property〕"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"Sol",
+						"Socialite"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"cou",
+						"count〔function〕"
+					],
+					[
+						"le",
+						"level	(quiz.php)"
+					],
+					[
+						"subject",
+						"subject_id"
+					],
+					[
+						"Lo",
+						"Log::info	Log an informational message to the logs."
+					],
+					[
+						"ca",
+						"call	(routes.php)"
+					],
+					[
+						"R",
+						"Role"
+					],
+					[
+						"cla",
+						"class"
+					],
+					[
+						"Queue",
+						"Illuminate\\Support\\Facades\\Queue〔class〕"
+					],
+					[
+						"ms",
+						"msgs"
+					],
+					[
+						"get",
+						"getUpdates	(Telegram.php)"
+					],
+					[
+						"font",
+						"font_size"
+					],
+					[
+						"OPt",
+						"Option	Option"
+					],
+					[
+						"User",
+						"App\\User〔class〕"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"tea",
+						"text-align"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"htm",
+						"html	(dashboard.blade.php)"
+					],
+					[
+						"ligh",
+						"lighten-5"
+					],
+					[
+						"ge",
+						"grey"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"st",
+						"style"
+					],
+					[
+						"no",
+						"not	(common.php)"
+					],
+					[
+						"Tea",
+						"TEACHER	(register_login.php)"
+					],
+					[
+						"subjec",
+						"subject_id"
+					],
+					[
+						"sub",
+						"subject"
+					],
+					[
+						"all",
+						"all"
+					],
+					[
+						"subje",
+						"subjects"
+					],
+					[
+						"fu",
+						"fun	function …"
+					],
+					[
+						"setting",
+						"settings	(routes.php)"
+					],
+					[
+						"option",
+						"option_name	(right.blade.php)"
+					],
+					[
+						"ne",
+						"newMessage	(main.js)"
+					],
+					[
+						"sett",
+						"settings	(routes.php)"
+					],
+					[
+						"se",
+						"settings	(ViewComposerServiceProvider.php)"
+					],
+					[
+						"op",
+						"option_name	(ViewComposerServiceProvider.php)"
+					],
+					[
+						"cle",
+						"clean_options"
+					],
+					[
+						"pri",
+						"private"
+					],
+					[
+						"f",
+						"fpri	PHP: final private class method declaration"
+					],
+					[
+						"you",
+						"your"
+					],
+					[
+						"ret",
+						"ret	return"
+					],
+					[
+						"us",
+						"users	(quiz.php)"
+					],
+					[
+						"php",
+						"phpversion"
+					],
+					[
+						"el",
+						"elseif	PHP: elseif statement"
+					],
+					[
+						"not",
+						"not_done"
+					],
+					[
+						"las",
+						"last_quiz	(quiz.php)"
+					],
+					[
+						"DB",
+						"DB-table	DB-table"
+					],
+					[
+						"quiz",
+						"quizzes	(common.php)"
+					],
+					[
+						"_",
+						"_blank"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"he",
+						"head"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"bor",
+						"border-right"
+					],
+					[
+						"Success",
+						"Successful	(HomeController.php)"
+					],
+					[
+						"style",
+						"stylesheet"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "php",
+				"selected_items":
+				[
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"BLADE",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"HTML",
+						"Set Syntax: HTML"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"blade",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"htm",
+						"Snippet: html"
+					],
+					[
+						"url",
+						"Laravel Facade: URL"
+					],
+					[
+						"sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"bla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sec",
+						"Snippet: blade-section"
+					],
+					[
+						"sybla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"confli",
+						"Git Conflict Resolver: Show Conflict Files"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"git s",
+						"GitStatus: Changed files"
+					],
+					[
+						"",
+						"Blade Spacer: Format File"
+					],
+					[
+						"inall",
+						"Snippet: Input-all"
+					],
+					[
+						"in",
+						"Laravel Facade: Input"
+					],
+					[
+						"rou",
+						"Snippet: Route-get"
+					],
+					[
+						"inpu",
+						"Laravel Facade: Input"
+					],
+					[
+						"git",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: t",
+						"Package Control: Install Package"
+					],
+					[
+						"for",
+						"CodeFormatter: Format as HTML Syntax"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"bladeforeac",
+						"Snippet: blade-foreach"
+					],
+					[
+						"fore",
+						"Snippet: blade-fore"
+					],
+					[
+						"sectio",
+						"Snippet: blade-section"
+					],
+					[
+						"I",
+						"Snippet: Input-has"
+					],
+					[
+						"if",
+						"Snippet: blade-if_else"
+					],
+					[
+						"btndef",
+						"Snippet: bs3-button-default"
+					],
+					[
+						"syntbla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"inponl",
+						"Snippet: Input-only"
+					],
+					[
+						"inputonl",
+						"Snippet: Input-only"
+					],
+					[
+						"inputex",
+						"Snippet: Input-except"
+					],
+					[
+						"inpuall",
+						"Snippet: Input-all"
+					],
+					[
+						"bladefor",
+						"Snippet: blade-foreach"
+					],
+					[
+						"syntabla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"yiel",
+						"Snippet: blade-yield"
+					],
+					[
+						"route",
+						"Snippet: Route-get"
+					],
+					[
+						"button",
+						"Snippet: bs3-button-success"
+					],
+					[
+						"btn",
+						"Snippet: bs3-button-info"
+					],
+					[
+						"lara",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"IF",
+						"Snippet: blade-if"
+					],
+					[
+						"input",
+						"Snippet: Input-get"
+					],
+					[
+						"view ",
+						"Snippet: View-make"
+					],
+					[
+						"view",
+						"Snippet: View-make"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"db",
+						"Snippet: DB-table"
+					],
+					[
+						"dbta",
+						"Snippet: DB-table"
+					],
+					[
+						"i",
+						"Snippet: blade-if"
+					],
+					[
+						"respo",
+						"Snippet: Response-json"
+					],
+					[
+						"redi",
+						"Snippet: Redirect-to"
+					],
+					[
+						"redire",
+						"Snippet: Redirect-back"
+					],
+					[
+						"ret",
+						"Snippet: Redirect-to"
+					],
+					[
+						"bladee",
+						"Snippet: blade-if_else"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"blade	",
+						"Snippet: blade-foreach"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 446.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/website/layouts/master.blade.php",
+				"/C/Users/peter/Code/music/resources/views/songs/create.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/new-request.blade.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/RegistrationController.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/SongsController.php",
+				"/C/Users/peter/Code/music/resources/views/backend/payment-method.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/payment.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/store.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/admin.blade.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/AlbumsController.php",
+				"/C/Users/peter/Code/music/app/PaymentMethod.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/dashboard.blade.php",
+				"/C/Users/peter/Code/music/resources/views/albums/create.blade.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/customer.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/download.blade.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/frontend.blade.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/downloads.blade.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/laravel/autoloader.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/.gitmodules",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/.travis.yml",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/_ide.php",
+				"/C/Users/peter/Code/music/resources/views/emails/password.blade.php",
+				"/C/Users/peter/Code/music/resources/views/emails/verify.blade.php",
+				"/C/Users/peter/Code/music/public/favicon.ico",
+				"/C/Users/peter/Code/ddd/mookh-tickets/public/favicon.ico",
+				"/C/Users/peter/Code/music/config/services.php",
+				"/C/Users/peter/Code/music/database/migrations/2015_08_07_071453_payment_monitor.php",
+				"/C/Users/peter/Code/music/config/app.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/CartController.php",
+				"/C/Users/peter/Code/music/resources/views/customer/album.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/song.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/store-home.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/cart.blade.php",
+				"/C/Users/peter/Code/music/resources/views/albums/index.blade.php",
+				"/C/Users/peter/Code/music/app/Http/Middleware/VerifyCsrfToken.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/FrontendController.php",
+				"/C/Users/peter/Code/music/resources/views/albums/add-songs.blade.php",
+				"/C/Users/peter/Code/music/resources/views/songs/index.blade.php",
+				"/C/Users/peter/Code/music/config/eloquent-oauth.php",
+				"/C/Users/peter/Code/music/app/Http/Kernel.php",
+				"/C/Users/peter/Code/music/app/Http/Middleware/SslBypass.php",
+				"/C/Users/peter/Code/music/resources/views/users/index.blade.php",
+				"/C/Users/peter/Code/music/resources/views/partials/sidebar.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/finances.blade.php",
+				"/C/Users/peter/Code/music/app/Http/routes.php",
+				"/C/Users/peter/Code/music/resources/views/roles/index.blade.php",
+				"/C/Users/peter/Code/music/resources/views/roles/edit.blade.php",
+				"/C/Users/peter/Code/music/resources/views/roles/create.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/transactions.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/withdrawals-view.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/withdrawals-user.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/paybill.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/withdrawals.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/show-purchase.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/profile.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/new-store.blade.php",
+				"/C/Users/peter/Code/music/composer.json",
+				"/C/Users/peter/Code/music/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/bundles/challenge/controllers/main.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/bundles/eneza/views/widgets/quiz_summary.blade.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/bundles/bootstro/routes.php",
+				"/C/Users/peter/Code/folio/resources/views/app.blade.php",
+				"/C/Users/peter/Code/skedula/.gitignore",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/Controllers/FacebookAppController.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/partials/messages.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/routes.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/emails/master.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/pages/paybill.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/pages/done.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/pages/verify.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/website/pages/verify.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/public/js/scripts.js",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelFacebookSdkServiceProvider.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelPersistentDataHandler.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelUrlDetectionHandler.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/SyncableGraphNodeTrait.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/FacebookFacade.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelFacebookSdk.php",
+				"/C/Users/peter/Code/scheduler/.env",
+				"/C/Users/peter/Code/scheduler/app/Http/routes.php",
+				"/C/Users/peter/Code/scheduler/.gitignore",
+				"/C/Users/peter/Code/music/.gitignore",
+				"/C/Users/peter/Code/scheduler/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+				"/C/Users/peter/Code/scheduler/composer.json",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/layouts/master.blade.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/storage/views/089c71e413e304541d94ba48956ce8e4",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/autoload_namespaces.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/storage/sessions/waQ4mwRPEX1QDhMhQVjZLYwztpFgjAcvvYNbYyxi",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/storage/sessions/.gitignore",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/composer.json",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/autoload.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/autoload_classmap.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/include_paths.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/installed.json",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/autoload_real.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/ClassLoader.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/composer.lock",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/id",
+				"/C/Users/peter/Code/ddd/mookh-tickets/database/migrations/2015_08_07_071453_payment_monitor.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/PaymentMonitor.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/TicketOrder.php",
+				"/C/Users/peter/Code/something.html",
+				"/C/Users/peter/Code/v1.0.1/admin_html/ui-panels.html",
+				"/C/Users/peter/Code/music/storage/app/.gitignore",
+				"/C/Users/peter/Code/v1.0.1/admin_html/extras-profile.html",
+				"/C/Users/peter/Code/ddd/mookh-tickets/composer.json",
+				"/C/Users/peter/Code/ddd/mookh-tickets/config/mail.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/admin/pages/new-store.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/config/settings.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/Controllers/DashboardController.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/Controllers/StoresController.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Store.php",
+				"/C/Users/peter/Downloads/xmpphp-0.1rc2-r77/XMPPHP/Roster.php",
+				"/C/Users/peter/Downloads/xmpphp-0.1rc2-r77/LICENSE",
+				"/C/Users/peter/Code/music/storage/zips/.gitignore",
+				"/C/Users/peter/Downloads/xmpphp-0.1rc2-r77/README",
+				"/C/Users/peter/Code/music/app/library/Mpesa.php",
+				"/C/Users/peter/Code/music/vendor/chumper/zipper/src/Chumper/Zipper/Zipper.php",
+				"/C/Users/peter/Code/music/vendor/chumper/zipper/src/Chumper/Zipper/Repositories/ZipRepository.php",
+				"/C/Users/peter/Code/music/app/library/mp3.php",
+				"/C/Users/peter/Code/music/config/filesystems.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Two/FacebookProvider.php",
+				"/C/Users/peter/Code/music/config/auth.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Contracts/User.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Contracts/Provider.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Contracts/Factory.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/One/TwitterProvider.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Two/User.php"
+			],
+			"find":
+			{
+				"height": 71.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"<open folders>",
+					"C:\\Users\\peter\\Documents\\Bootstrap-CMS-0.8\\app\\views",
+					"<open folders>",
+					"<open files>",
+					"C:\\Users\\peter\\Documents\\home\\xamp\\htdocs\\eneza_app\\bundles\\profiles",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"paybill",
+					"paybill.",
+					"check_payment",
+					"doMpesaRemi",
+					"created_by",
+					"doMpesaRemit",
+					"@",
+					"/facebook/",
+					"tour-modal",
+					"orderComplete",
+					"paybill",
+					"use Carbon",
+					"log",
+					"the_support",
+					"cancel",
+					"header",
+					"partialPayment",
+					"doMpesaRemit",
+					";\n",
+					"showEvents",
+					"attachFacebookPage",
+					"github",
+					"SoapClient",
+					"mpesa",
+					"signup.js",
+					"banks",
+					"/banks",
+					"confirm",
+					"bank",
+					"address",
+					"education",
+					"hacks",
+					"gender",
+					"register_gender",
+					"sum",
+					"request",
+					"financial",
+					"financial/summary",
+					"finances",
+					"requ",
+					"passw",
+					"/tab/done",
+					"payment_status",
+					"put",
+					"Session::put('amoun",
+					"Session::put('amount')",
+					"Session::set('amount')",
+					"Cart::destroy",
+					"ui-pnotify",
+					"HttpClient",
+					"f",
+					"fb",
+					"post",
+					"start",
+					"summary",
+					"max",
+					"album[",
+					"}}",
+					"{{",
+					"generateRowId",
+					"addRow",
+					"}}",
+					"{{",
+					"user[",
+					"}}",
+					"{{",
+					"}}",
+					"{{",
+					"backend",
+					"{{ asset('",
+					"user_challenge_targets",
+					"//",
+					"mail",
+					"finish",
+					"processCheckout",
+					"gene",
+					"processCheckout",
+					"crea",
+					"location",
+					";\n",
+					"}}",
+					"{{",
+					"mine",
+					"my stude",
+					"My Students",
+					"desc",
+					"body",
+					"valign",
+					"vali",
+					"roles",
+					"34123456789",
+					"conte",
+					"co",
+					"register_mandizi_game",
+					"REGISTER",
+					"system_folder",
+					"z-in",
+					"font",
+					"m3",
+					"width=\"150\"",
+					"m4",
+					"not_done_by_user",
+					"log",
+					"subjects",
+					"next_quiz",
+					"main-menu",
+					"not_done_by_user",
+					"start_quiz",
+					"teacher",
+					"progress",
+					"mouse",
+					".overlay",
+					"getRegister",
+					"Melbornem",
+					"footer",
+					"                                    ",
+					"back",
+					"ba",
+					"color: #FFFFFF;",
+					"color:",
+					"Basic concepts",
+					"postForm",
+					"aliases",
+					"alises",
+					"forwarded_port",
+					"8080",
+					"as filters",
+					"font-family: 'Grand Hotel',cursive;"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 86.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"faceboo",
+						"app\\Http\\Controllers\\FacebookAppController.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					],
+					[
+						"js.js",
+						"public\\site\\assets\\js\\js.js"
+					],
+					[
+						"cart",
+						"app\\Http\\Controllers\\CartController.php"
+					],
+					[
+						"create.blade",
+						"resources\\views\\songs\\create.blade.php"
+					],
+					[
+						"a",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"songs",
+						"app\\Http\\Controllers\\SongsController.php"
+					],
+					[
+						"admin",
+						"resources\\views\\backend\\admin.blade.php"
+					],
+					[
+						"regis",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"payment",
+						"resources\\views\\backend\\payment-method.blade.php"
+					],
+					[
+						"downloads",
+						"resources\\views\\layouts\\downloads.blade.php"
+					],
+					[
+						"down",
+						"resources\\views\\customer\\download.blade.php"
+					],
+					[
+						"custo",
+						"resources\\views\\layouts\\customer.blade.php"
+					],
+					[
+						"da",
+						"resources\\views\\layouts\\dashboard.blade.php"
+					],
+					[
+						"crea.blade",
+						"resources\\views\\albums\\create.blade.php"
+					],
+					[
+						"debug",
+						"config\\debugbar.php"
+					],
+					[
+						"debugba",
+						"vendor\\maximebf\\debugbar\\src\\DebugBar\\DebugBar.php"
+					],
+					[
+						"bckend",
+						"app\\Http\\Controllers\\BackendController.php"
+					],
+					[
+						"edit.bla",
+						"resources\\views\\users\\edit.blade.php"
+					],
+					[
+						"verif",
+						"resources\\views\\emails\\verify.blade.php"
+					],
+					[
+						"users",
+						"app\\Http\\Controllers\\UsersController.php"
+					],
+					[
+						"registra",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"login",
+						"resources\\views\\auth\\login.blade.php"
+					],
+					[
+						"registr",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"app",
+						"config\\app.php"
+					],
+					[
+						"services",
+						"config\\services.php"
+					],
+					[
+						"home",
+						"resources\\views\\customer\\store-home.blade.php"
+					],
+					[
+						"song",
+						"resources\\views\\customer\\song.blade.php"
+					],
+					[
+						"index",
+						"resources\\views\\albums\\index.blade.php"
+					],
+					[
+						"add",
+						"resources\\views\\albums\\add-songs.blade.php"
+					],
+					[
+						"paymnt.b",
+						"resources\\views\\customer\\payment.blade.php"
+					],
+					[
+						"album",
+						"resources\\views\\customer\\album.blade.php"
+					],
+					[
+						"crea",
+						"resources\\views\\songs\\create.blade.php"
+					],
+					[
+						"add.b",
+						"resources\\views\\albums\\add-songs.blade.php"
+					],
+					[
+						"create.b",
+						"resources\\views\\albums\\create.blade.php"
+					],
+					[
+						"front",
+						"app\\Http\\Controllers\\FrontendController.php"
+					],
+					[
+						"csrf",
+						"app\\Http\\Middleware\\VerifyCsrfToken.php"
+					],
+					[
+						"sslbypass",
+						"app\\Http\\Middleware\\SslBypass.php"
+					],
+					[
+						"kerne",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"cart.blade",
+						"resources\\views\\customer\\cart.blade.php"
+					],
+					[
+						"routes",
+						"app\\Http\\routes.php"
+					],
+					[
+						"verify",
+						"app\\Http\\Middleware\\VerifyCsrfToken.php"
+					],
+					[
+						"elo",
+						"config\\eloquent-oauth.php"
+					],
+					[
+						"finacne",
+						"resources\\views\\backend\\finances.blade.php"
+					],
+					[
+						"dash",
+						"resources\\views\\layouts\\dashboard.blade.php"
+					],
+					[
+						"sideb",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"index.blade",
+						"resources\\views\\users\\index.blade.php"
+					],
+					[
+						"",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"admin.bl",
+						"resources\\views\\backend\\admin.blade.php"
+					],
+					[
+						"sideba",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"kern",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"custome",
+						"resources\\views\\layouts\\customer.blade.php"
+					],
+					[
+						"main",
+						"bundles\\challenge\\controllers\\main.php"
+					],
+					[
+						"main.php",
+						"bundles\\challenge\\controllers\\main.php"
+					],
+					[
+						"miles",
+						"bundles\\eneza\\views\\widgets\\quiz_results_milestone_story.blade.php"
+					],
+					[
+						"take",
+						"bundles\\eneza\\views\\widgets\\take_quiz.blade.php"
+					],
+					[
+						"atta",
+						"bundles\\eneza\\models\\Attachment.php"
+					],
+					[
+						"regi",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"rou",
+						"app\\Http\\routes.php"
+					],
+					[
+						"scripts",
+						"public\\js\\scripts.js"
+					],
+					[
+						"master",
+						"resources\\views\\website\\layouts\\master.blade.php"
+					],
+					[
+						"veri",
+						"resources\\views\\website\\pages\\verify.blade.php"
+					],
+					[
+						"paybill.",
+						"resources\\views\\site\\pages\\paybill.blade.php"
+					],
+					[
+						"faceb",
+						"app\\Http\\Controllers\\FacebookAppController.php"
+					],
+					[
+						"albums",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"container",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"env",
+						".env"
+					],
+					[
+						"c",
+						"composer.json"
+					],
+					[
+						"face",
+						"app\\Http\\Controllers\\FacebookAppController.php"
+					],
+					[
+						"mai",
+						"config\\mail.php"
+					],
+					[
+						"sotres",
+						"app\\Http\\Controllers\\StoresController.php"
+					],
+					[
+						"store",
+						"app\\Store.php"
+					],
+					[
+						"stores",
+						"app\\Http\\Controllers\\StoresController.php"
+					],
+					[
+						"storescontroller",
+						"app\\controllers\\StoresController.php"
+					],
+					[
+						"bosh",
+						"XMPPHP\\BOSH.php"
+					],
+					[
+						"assign",
+						"bundles\\challenge\\models\\assign.php"
+					],
+					[
+						"user",
+						"app\\User.php"
+					],
+					[
+						"withdra",
+						"app\\Withdrawal.php"
+					],
+					[
+						"createwith",
+						"database\\migrations\\2015_05_29_000019_create_withdrawals_table.php"
+					],
+					[
+						"pay",
+						"resources\\views\\backend\\payment-method.blade.php"
+					],
+					[
+						"createstore",
+						"database\\migrations\\2015_03_10_125507_create_stores_table.php"
+					],
+					[
+						"roles",
+						"database\\seeds\\RolesTableSeeder.php"
+					],
+					[
+						"paymn",
+						"resources\\views\\backend\\payment-method.blade.php"
+					],
+					[
+						"comple",
+						"app\\views\\tab\\complete.blade.php"
+					],
+					[
+						"fina",
+						"resources\\views\\backend\\finances.blade.php"
+					],
+					[
+						"exce",
+						"config\\excel.php"
+					],
+					[
+						"index.bla",
+						"resources\\views\\folio\\index.blade.php"
+					],
+					[
+						"create.bl",
+						"resources\\views\\folio\\create.blade.php"
+					],
+					[
+						"gender",
+						"application\\actions\\gender.php"
+					],
+					[
+						"password",
+						"app\\Http\\Controllers\\Auth\\PasswordController.php"
+					],
+					[
+						"createuser",
+						"database\\migrations\\2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"createca",
+						"database\\migrations\\2015_05_07_221821_create_carts_table.php"
+					],
+					[
+						"creattr",
+						"database\\migrations\\2015_05_07_221422_create_transactions_table.php"
+					],
+					[
+						"edit",
+						"resources\\views\\users\\edit.blade.php"
+					],
+					[
+						"paybi",
+						"app\\views\\tab\\paybill.blade.php"
+					],
+					[
+						"done",
+						"app\\views\\tab\\done.blade.php"
+					],
+					[
+						"app.",
+						"config\\app.php"
+					],
+					[
+						"service",
+						"config\\services.php"
+					],
+					[
+						"servi",
+						"app\\config\\services.php"
+					],
+					[
+						"yellow",
+						"public\\dashboard\\dist\\css\\skins\\skin-yellow.css"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"so",
+						"app\\Http\\Controllers\\SongsController.php"
+					],
+					[
+						"side",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						"albun",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"createalb",
+						"database\\migrations\\2015_07_30_111838_create_albums_table.php"
+					],
+					[
+						"seeder",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"genres",
+						"database\\seeds\\GenresTableSeeder.php"
+					],
+					[
+						"genretable",
+						"database\\migrations\\2015_07_30_112154_create_genres_table.php"
+					],
+					[
+						"create",
+						"database\\migrations\\2015_07_30_113206_create_songs_table.php"
+					],
+					[
+						"das",
+						"resources\\views\\layouts\\dashboard.blade.php"
+					],
+					[
+						"shin",
+						"vendor\\caffeinated\\shinobi\\src\\Caffeinated\\Shinobi\\Traits\\ShinobiTrait.php"
+					],
+					[
+						"shino",
+						"vendor\\caffeinated\\shinobi\\src\\Caffeinated\\Shinobi\\Traits\\ShinobiTrait.php"
+					],
+					[
+						"create_so",
+						"database\\migrations\\2015_07_30_113206_create_songs_table.php"
+					],
+					[
+						"albu",
+						"database\\migrations\\2015_07_30_111838_create_albums_table.php"
+					],
+					[
+						"al",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"databa",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"database.php",
+						"config\\database.php"
+					],
+					[
+						"alb",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"homewo",
+						"bundles\\challenge\\actions\\homework.php"
+					],
+					[
+						"quiz",
+						"bundles\\eneza\\controllers\\quiz.php"
+					],
+					[
+						"sty",
+						"public\\dashboard\\css\\style.css"
+					],
+					[
+						"app.b",
+						"resources\\views\\layouts\\app.blade.php"
+					],
+					[
+						"auth",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"reg",
+						"resources\\views\\auth\\register.blade.php"
+					],
+					[
+						"log",
+						"resources\\views\\auth\\login.blade.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 50.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cancel",
+						"cancelUpload"
+					],
+					[
+						"wher",
+						"whereUserId"
+					],
+					[
+						"els",
+						"else	(admin.blade.php)"
+					],
+					[
+						"saveba",
+						"savebank〔function〕"
+					],
+					[
+						"sa",
+						"saveMpesa〔function〕"
+					],
+					[
+						"bank",
+						"bank_name"
+					],
+					[
+						"re",
+						"$request〔variable〕"
+					],
+					[
+						"de",
+						"details"
+					],
+					[
+						"Cl",
+						"Client"
+					],
+					[
+						"ur",
+						"url('logout"
+					],
+					[
+						"Ht",
+						"HTML-style	HTML-style"
+					],
+					[
+						"H",
+						"HTML-style	HTML-style"
+					],
+					[
+						"http",
+						"https"
+					],
+					[
+						"if",
+						"ifelse	if … else …"
+					],
+					[
+						"upp",
+						"uppercase〔value〕"
+					],
+					[
+						"with",
+						"withdrawals	(2015_05_29_000019_create_withdrawals_table.php)"
+					],
+					[
+						"fun",
+						"fun	PHP: function definition"
+					],
+					[
+						"mu",
+						"multipart	(create.blade.php)"
+					],
+					[
+						"Tra",
+						"App\\Transaction〔class〕"
+					],
+					[
+						"tra",
+						"transaction"
+					],
+					[
+						"con",
+						"contents"
+					],
+					[
+						"Song",
+						"App\\Song〔class〕"
+					],
+					[
+						"ex",
+						"ext	blade-extends"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"sec",
+						"seconds	(mp3.php)"
+					],
+					[
+						"relea",
+						"release_date"
+					],
+					[
+						"date",
+						"date_input"
+					],
+					[
+						"so",
+						"songs	(SongsController.php)"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"li",
+						"library	(CMP3Split.php)"
+					],
+					[
+						"na",
+						"namespace	(SongsController.php)"
+					],
+					[
+						"fil",
+						"$filename〔variable〕"
+					],
+					[
+						"uplo",
+						"uploaded	(index.blade.php)"
+					],
+					[
+						"bac",
+						"backend"
+					],
+					[
+						"al",
+						"albums"
+					],
+					[
+						"back",
+						"backend	(create.blade.php)"
+					],
+					[
+						"drop",
+						"dropzone"
+					],
+					[
+						"ba",
+						"backend"
+					],
+					[
+						"pu",
+						"pull	(dashboard.blade.php)"
+					],
+					[
+						"ro",
+						"role"
+					],
+					[
+						"Va",
+						"Validator"
+					],
+					[
+						"red",
+						"redirect〔function〕"
+					],
+					[
+						"des",
+						"description"
+					],
+					[
+						"Ue",
+						"Users	(ShinobiTrait.php)"
+					],
+					[
+						"rol",
+						"roles"
+					],
+					[
+						"r",
+						"role"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"fr",
+						"frontend	(register.blade.php)"
+					],
+					[
+						"la",
+						"layouts	(register.blade.php)"
+					],
+					[
+						"end",
+						"endsection	(register.blade.php)"
+					],
+					[
+						"log",
+						"logout	(routes.php)"
+					],
+					[
+						"regi",
+						"register	(app.php)"
+					],
+					[
+						"co",
+						"container"
+					],
+					[
+						"res",
+						"resources	(laravel.log)"
+					],
+					[
+						"reg",
+						"register	(app.php)"
+					],
+					[
+						"lay",
+						"layouts	(laravel.log)"
+					],
+					[
+						"da",
+						"dashboard	(routes.php)"
+					],
+					[
+						"gi",
+						"gig	(GigsController.php)"
+					],
+					[
+						"to",
+						"top	(jquery.growl.css)"
+					],
+					[
+						"gigs",
+						"gigs"
+					],
+					[
+						"ev",
+						"eventObj"
+					],
+					[
+						"In",
+						"Input-all	Input-all"
+					],
+					[
+						"po",
+						"polaris"
+					],
+					[
+						"pub",
+						"published"
+					],
+					[
+						"hi",
+						"hidden	(app.css)"
+					],
+					[
+						"overflow-",
+						"overflow-y: 〔property〕"
+					],
+					[
+						"over",
+						"overflow: 〔property〕"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"Sol",
+						"Socialite"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"cou",
+						"count〔function〕"
+					],
+					[
+						"le",
+						"level	(quiz.php)"
+					],
+					[
+						"subject",
+						"subject_id"
+					],
+					[
+						"Lo",
+						"Log::info	Log an informational message to the logs."
+					],
+					[
+						"ca",
+						"call	(routes.php)"
+					],
+					[
+						"R",
+						"Role"
+					],
+					[
+						"cla",
+						"class"
+					],
+					[
+						"Queue",
+						"Illuminate\\Support\\Facades\\Queue〔class〕"
+					],
+					[
+						"ms",
+						"msgs"
+					],
+					[
+						"get",
+						"getUpdates	(Telegram.php)"
+					],
+					[
+						"font",
+						"font_size"
+					],
+					[
+						"OPt",
+						"Option	Option"
+					],
+					[
+						"User",
+						"App\\User〔class〕"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"tea",
+						"text-align"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"htm",
+						"html	(dashboard.blade.php)"
+					],
+					[
+						"ligh",
+						"lighten-5"
+					],
+					[
+						"ge",
+						"grey"
+					],
+					[
+						"au",
+						"auto"
+					],
+					[
+						"st",
+						"style"
+					],
+					[
+						"no",
+						"not	(common.php)"
+					],
+					[
+						"Tea",
+						"TEACHER	(register_login.php)"
+					],
+					[
+						"subjec",
+						"subject_id"
+					],
+					[
+						"sub",
+						"subject"
+					],
+					[
+						"all",
+						"all"
+					],
+					[
+						"subje",
+						"subjects"
+					],
+					[
+						"fu",
+						"fun	function …"
+					],
+					[
+						"setting",
+						"settings	(routes.php)"
+					],
+					[
+						"option",
+						"option_name	(right.blade.php)"
+					],
+					[
+						"ne",
+						"newMessage	(main.js)"
+					],
+					[
+						"sett",
+						"settings	(routes.php)"
+					],
+					[
+						"se",
+						"settings	(ViewComposerServiceProvider.php)"
+					],
+					[
+						"op",
+						"option_name	(ViewComposerServiceProvider.php)"
+					],
+					[
+						"cle",
+						"clean_options"
+					],
+					[
+						"pri",
+						"private"
+					],
+					[
+						"f",
+						"fpri	PHP: final private class method declaration"
+					],
+					[
+						"you",
+						"your"
+					],
+					[
+						"ret",
+						"ret	return"
+					],
+					[
+						"us",
+						"users	(quiz.php)"
+					],
+					[
+						"php",
+						"phpversion"
+					],
+					[
+						"el",
+						"elseif	PHP: elseif statement"
+					],
+					[
+						"not",
+						"not_done"
+					],
+					[
+						"las",
+						"last_quiz	(quiz.php)"
+					],
+					[
+						"DB",
+						"DB-table	DB-table"
+					],
+					[
+						"quiz",
+						"quizzes	(common.php)"
+					],
+					[
+						"_",
+						"_blank"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"he",
+						"head"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"bor",
+						"border-right"
+					],
+					[
+						"Success",
+						"Successful	(HomeController.php)"
+					],
+					[
+						"style",
+						"stylesheet"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "SELECT `challenges`.`id` FROM (SELECT user_challenges.id, filters.target FROM user_challenges INNER JOIN user_challenge_targets ON user_challenge_targets.challenge_id = user_challenges.id LEFT JOIN (SELECT 'user' as target, 344215 as target_id union SELECT 'school' as target, 1434 as target_id union (select 'group' as target, id as target_id from user_groups_to_users where user_id = 344215 and deleted = 0) union SELECT 'filter_all' as target, null as target_id union SELECT 'filter_primary' as target, null as target_id union SELECT 'filter_eneza' as target, null as target_id union SELECT 'filter_entry678' as target, null as target_id union SELECT 'filter_entry8' as target, null as target_id union SELECT 'filter_registered_over_4_months' as target, null as target_id) AS filters ON filters.target = user_challenge_targets.target AND (case when filters.target_id is null then 1 else filters.target_id end) = (case when user_challenge_targets.target_id is null then 1 else user_challenge_targets.target_id end)WHERE 1 AND code = 'ENTRY') AS challenges LEFT JOIN `challenge_items` ON `challenge_items`.`challenge_id` = `challenges`.`id` LEFT JOIN `challenge_completion` ON `challenge_completion`.`challenge_item_id` = `challenge_items`.`id` AND `challenge_completion`.`user_id` = 344215 WHERE `challenge_completion`.`id` IS NULL GROUP BY `challenges`.`id` HAVING count(challenges.target) = count(challenges.id) LIMIT 1",
+					"settings":
+					{
+						"buffer_size": 1423,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/peter/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 547,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "f1 stream hd",
+					"settings":
+					{
+						"buffer_size": 12,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "sql",
+				"selected_items":
+				[
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"BLADE",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"HTML",
+						"Set Syntax: HTML"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"blade",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"htm",
+						"Snippet: html"
+					],
+					[
+						"url",
+						"Laravel Facade: URL"
+					],
+					[
+						"sq",
+						"Set Syntax: SQL"
+					],
+					[
+						"bla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sec",
+						"Snippet: blade-section"
+					],
+					[
+						"sybla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"confli",
+						"Git Conflict Resolver: Show Conflict Files"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"git s",
+						"GitStatus: Changed files"
+					],
+					[
+						"",
+						"Blade Spacer: Format File"
+					],
+					[
+						"inall",
+						"Snippet: Input-all"
+					],
+					[
+						"in",
+						"Laravel Facade: Input"
+					],
+					[
+						"rou",
+						"Snippet: Route-get"
+					],
+					[
+						"inpu",
+						"Laravel Facade: Input"
+					],
+					[
+						"git",
+						"GitGutter: Compare Against Branch"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: t",
+						"Package Control: Install Package"
+					],
+					[
+						"for",
+						"CodeFormatter: Format as HTML Syntax"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"bladeforeac",
+						"Snippet: blade-foreach"
+					],
+					[
+						"fore",
+						"Snippet: blade-fore"
+					],
+					[
+						"sectio",
+						"Snippet: blade-section"
+					],
+					[
+						"I",
+						"Snippet: Input-has"
+					],
+					[
+						"if",
+						"Snippet: blade-if_else"
+					],
+					[
+						"btndef",
+						"Snippet: bs3-button-default"
+					],
+					[
+						"syntbla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"inponl",
+						"Snippet: Input-only"
+					],
+					[
+						"inputonl",
+						"Snippet: Input-only"
+					],
+					[
+						"inputex",
+						"Snippet: Input-except"
+					],
+					[
+						"inpuall",
+						"Snippet: Input-all"
+					],
+					[
+						"bladefor",
+						"Snippet: blade-foreach"
+					],
+					[
+						"syntabla",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"yiel",
+						"Snippet: blade-yield"
+					],
+					[
+						"route",
+						"Snippet: Route-get"
+					],
+					[
+						"button",
+						"Snippet: bs3-button-success"
+					],
+					[
+						"btn",
+						"Snippet: bs3-button-info"
+					],
+					[
+						"lara",
+						"Set Syntax: PHP - Laravel Blade"
+					],
+					[
+						"IF",
+						"Snippet: blade-if"
+					],
+					[
+						"input",
+						"Snippet: Input-get"
+					],
+					[
+						"view ",
+						"Snippet: View-make"
+					],
+					[
+						"view",
+						"Snippet: View-make"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"db",
+						"Snippet: DB-table"
+					],
+					[
+						"dbta",
+						"Snippet: DB-table"
+					],
+					[
+						"i",
+						"Snippet: blade-if"
+					],
+					[
+						"respo",
+						"Snippet: Response-json"
+					],
+					[
+						"redi",
+						"Snippet: Redirect-to"
+					],
+					[
+						"redire",
+						"Snippet: Redirect-back"
+					],
+					[
+						"ret",
+						"Snippet: Redirect-to"
+					],
+					[
+						"bladee",
+						"Snippet: blade-if_else"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"blade	",
+						"Snippet: blade-foreach"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 446.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": true,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/peter/Code/Laravel",
+				"/C/Users/peter/Code/Laravel/app",
+				"/C/Users/peter/Code/Laravel/app/Http",
+				"/C/Users/peter/Code/Laravel/app/Http/Controllers"
+			],
+			"file_history":
+			[
+				"/C/Users/peter/Code/Laravel/app/Http/Controllers/GigsController.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/website/layouts/master.blade.php",
+				"/C/Users/peter/Code/music/resources/views/songs/create.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/new-request.blade.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/RegistrationController.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/SongsController.php",
+				"/C/Users/peter/Code/music/resources/views/backend/payment-method.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/payment.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/store.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/admin.blade.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/AlbumsController.php",
+				"/C/Users/peter/Code/music/app/PaymentMethod.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/dashboard.blade.php",
+				"/C/Users/peter/Code/music/resources/views/albums/create.blade.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/customer.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/download.blade.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/frontend.blade.php",
+				"/C/Users/peter/Code/music/resources/views/layouts/downloads.blade.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/laravel/autoloader.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/.gitmodules",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/.travis.yml",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/_ide.php",
+				"/C/Users/peter/Code/music/resources/views/emails/password.blade.php",
+				"/C/Users/peter/Code/music/resources/views/emails/verify.blade.php",
+				"/C/Users/peter/Code/music/public/favicon.ico",
+				"/C/Users/peter/Code/ddd/mookh-tickets/public/favicon.ico",
+				"/C/Users/peter/Code/music/config/services.php",
+				"/C/Users/peter/Code/music/database/migrations/2015_08_07_071453_payment_monitor.php",
+				"/C/Users/peter/Code/music/config/app.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/CartController.php",
+				"/C/Users/peter/Code/music/resources/views/customer/album.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/song.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/store-home.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/cart.blade.php",
+				"/C/Users/peter/Code/music/resources/views/albums/index.blade.php",
+				"/C/Users/peter/Code/music/app/Http/Middleware/VerifyCsrfToken.php",
+				"/C/Users/peter/Code/music/app/Http/Controllers/FrontendController.php",
+				"/C/Users/peter/Code/music/resources/views/albums/add-songs.blade.php",
+				"/C/Users/peter/Code/music/resources/views/songs/index.blade.php",
+				"/C/Users/peter/Code/music/config/eloquent-oauth.php",
+				"/C/Users/peter/Code/music/app/Http/Kernel.php",
+				"/C/Users/peter/Code/music/app/Http/Middleware/SslBypass.php",
+				"/C/Users/peter/Code/music/resources/views/users/index.blade.php",
+				"/C/Users/peter/Code/music/resources/views/partials/sidebar.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/finances.blade.php",
+				"/C/Users/peter/Code/music/app/Http/routes.php",
+				"/C/Users/peter/Code/music/resources/views/roles/index.blade.php",
+				"/C/Users/peter/Code/music/resources/views/roles/edit.blade.php",
+				"/C/Users/peter/Code/music/resources/views/roles/create.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/transactions.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/withdrawals-view.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/withdrawals-user.blade.php",
+				"/C/Users/peter/Code/music/resources/views/customer/paybill.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/withdrawals.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/show-purchase.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/profile.blade.php",
+				"/C/Users/peter/Code/music/resources/views/backend/new-store.blade.php",
+				"/C/Users/peter/Code/music/composer.json",
+				"/C/Users/peter/Code/music/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/bundles/challenge/controllers/main.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/bundles/eneza/views/widgets/quiz_summary.blade.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/bundles/bootstro/routes.php",
+				"/C/Users/peter/Code/folio/resources/views/app.blade.php",
+				"/C/Users/peter/Code/skedula/.gitignore",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/Controllers/FacebookAppController.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/partials/messages.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/routes.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/emails/master.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/pages/paybill.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/pages/done.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/pages/verify.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/website/pages/verify.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/public/js/scripts.js",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelFacebookSdkServiceProvider.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelPersistentDataHandler.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelUrlDetectionHandler.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/SyncableGraphNodeTrait.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/FacebookFacade.php",
+				"/C/Users/peter/Code/scheduler/vendor/sammyk/laravel-facebook-sdk/src/LaravelFacebookSdk/LaravelFacebookSdk.php",
+				"/C/Users/peter/Code/scheduler/.env",
+				"/C/Users/peter/Code/scheduler/app/Http/routes.php",
+				"/C/Users/peter/Code/scheduler/.gitignore",
+				"/C/Users/peter/Code/music/.gitignore",
+				"/C/Users/peter/Code/scheduler/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+				"/C/Users/peter/Code/scheduler/composer.json",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/site/layouts/master.blade.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/storage/views/089c71e413e304541d94ba48956ce8e4",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/autoload_namespaces.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/storage/sessions/waQ4mwRPEX1QDhMhQVjZLYwztpFgjAcvvYNbYyxi",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/storage/sessions/.gitignore",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/composer.json",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/autoload.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/autoload_classmap.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/include_paths.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/installed.json",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/autoload_real.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/vendor/composer/ClassLoader.php",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/composer.lock",
+				"/C/Users/peter/Documents/home/xamp/htdocs/eneza_app/id",
+				"/C/Users/peter/Code/ddd/mookh-tickets/database/migrations/2015_08_07_071453_payment_monitor.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/PaymentMonitor.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/TicketOrder.php",
+				"/C/Users/peter/Code/something.html",
+				"/C/Users/peter/Code/v1.0.1/admin_html/ui-panels.html",
+				"/C/Users/peter/Code/music/storage/app/.gitignore",
+				"/C/Users/peter/Code/v1.0.1/admin_html/extras-profile.html",
+				"/C/Users/peter/Code/ddd/mookh-tickets/composer.json",
+				"/C/Users/peter/Code/ddd/mookh-tickets/config/mail.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/resources/views/admin/pages/new-store.blade.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/config/settings.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/Controllers/DashboardController.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Http/Controllers/StoresController.php",
+				"/C/Users/peter/Code/ddd/mookh-tickets/app/Store.php",
+				"/C/Users/peter/Downloads/xmpphp-0.1rc2-r77/XMPPHP/Roster.php",
+				"/C/Users/peter/Downloads/xmpphp-0.1rc2-r77/LICENSE",
+				"/C/Users/peter/Code/music/storage/zips/.gitignore",
+				"/C/Users/peter/Downloads/xmpphp-0.1rc2-r77/README",
+				"/C/Users/peter/Code/music/app/library/Mpesa.php",
+				"/C/Users/peter/Code/music/vendor/chumper/zipper/src/Chumper/Zipper/Zipper.php",
+				"/C/Users/peter/Code/music/vendor/chumper/zipper/src/Chumper/Zipper/Repositories/ZipRepository.php",
+				"/C/Users/peter/Code/music/app/library/mp3.php",
+				"/C/Users/peter/Code/music/config/filesystems.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Two/FacebookProvider.php",
+				"/C/Users/peter/Code/music/config/auth.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Contracts/User.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Contracts/Provider.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/Contracts/Factory.php",
+				"/C/Users/peter/Code/music/vendor/laravel/socialite/src/One/TwitterProvider.php"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"<open folders>",
+					"C:\\Users\\peter\\Documents\\Bootstrap-CMS-0.8\\app\\views",
+					"<open folders>",
+					"<open files>",
+					"C:\\Users\\peter\\Documents\\home\\xamp\\htdocs\\eneza_app\\bundles\\profiles",
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"paybill",
+					"paybill.",
+					"check_payment",
+					"doMpesaRemi",
+					"created_by",
+					"doMpesaRemit",
+					"@",
+					"/facebook/",
+					"tour-modal",
+					"orderComplete",
+					"paybill",
+					"use Carbon",
+					"log",
+					"the_support",
+					"cancel",
+					"header",
+					"partialPayment",
+					"doMpesaRemit",
+					";\n",
+					"showEvents",
+					"attachFacebookPage",
+					"github",
+					"SoapClient",
+					"mpesa",
+					"signup.js",
+					"banks",
+					"/banks",
+					"confirm",
+					"bank",
+					"address",
+					"education",
+					"hacks",
+					"gender",
+					"register_gender",
+					"sum",
+					"request",
+					"financial",
+					"financial/summary",
+					"finances",
+					"requ",
+					"passw",
+					"/tab/done",
+					"payment_status",
+					"put",
+					"Session::put('amoun",
+					"Session::put('amount')",
+					"Session::set('amount')",
+					"Cart::destroy",
+					"ui-pnotify",
+					"HttpClient",
+					"f",
+					"fb",
+					"post",
+					"start",
+					"summary",
+					"max",
+					"album[",
+					"}}",
+					"{{",
+					"generateRowId",
+					"addRow",
+					"}}",
+					"{{",
+					"user[",
+					"}}",
+					"{{",
+					"}}",
+					"{{",
+					"backend",
+					"{{ asset('",
+					"user_challenge_targets",
+					"//",
+					"mail",
+					"finish",
+					"processCheckout",
+					"gene",
+					"processCheckout",
+					"crea",
+					"location",
+					";\n",
+					"}}",
+					"{{",
+					"mine",
+					"my stude",
+					"My Students",
+					"desc",
+					"body",
+					"valign",
+					"vali",
+					"roles",
+					"34123456789",
+					"conte",
+					"co",
+					"register_mandizi_game",
+					"REGISTER",
+					"system_folder",
+					"z-in",
+					"font",
+					"m3",
+					"width=\"150\"",
+					"m4",
+					"not_done_by_user",
+					"log",
+					"subjects",
+					"next_quiz",
+					"main-menu",
+					"not_done_by_user",
+					"start_quiz",
+					"teacher",
+					"progress",
+					"mouse",
+					".overlay",
+					"getRegister",
+					"Melbornem",
+					"footer",
+					"                                    ",
+					"back",
+					"ba",
+					"color: #FFFFFF;",
+					"color:",
+					"Basic concepts",
+					"postForm",
+					"aliases",
+					"alises",
+					"forwarded_port",
+					"8080",
+					"as filters",
+					"font-family: 'Grand Hotel',cursive;"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\peter\\Code\\Laravel"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1423,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1423,
+										1423
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"function_name_status_row": 0,
+									"syntax": "Packages/SQL/SQL.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/peter/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 547,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										547
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"function_name_status_row": 0,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 488.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										12
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 86.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,565,26,26,682",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"faceboo",
+						"app\\Http\\Controllers\\FacebookAppController.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					],
+					[
+						"js.js",
+						"public\\site\\assets\\js\\js.js"
+					],
+					[
+						"cart",
+						"app\\Http\\Controllers\\CartController.php"
+					],
+					[
+						"create.blade",
+						"resources\\views\\songs\\create.blade.php"
+					],
+					[
+						"a",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"songs",
+						"app\\Http\\Controllers\\SongsController.php"
+					],
+					[
+						"admin",
+						"resources\\views\\backend\\admin.blade.php"
+					],
+					[
+						"regis",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"payment",
+						"resources\\views\\backend\\payment-method.blade.php"
+					],
+					[
+						"downloads",
+						"resources\\views\\layouts\\downloads.blade.php"
+					],
+					[
+						"down",
+						"resources\\views\\customer\\download.blade.php"
+					],
+					[
+						"custo",
+						"resources\\views\\layouts\\customer.blade.php"
+					],
+					[
+						"da",
+						"resources\\views\\layouts\\dashboard.blade.php"
+					],
+					[
+						"crea.blade",
+						"resources\\views\\albums\\create.blade.php"
+					],
+					[
+						"debug",
+						"config\\debugbar.php"
+					],
+					[
+						"debugba",
+						"vendor\\maximebf\\debugbar\\src\\DebugBar\\DebugBar.php"
+					],
+					[
+						"bckend",
+						"app\\Http\\Controllers\\BackendController.php"
+					],
+					[
+						"edit.bla",
+						"resources\\views\\users\\edit.blade.php"
+					],
+					[
+						"verif",
+						"resources\\views\\emails\\verify.blade.php"
+					],
+					[
+						"users",
+						"app\\Http\\Controllers\\UsersController.php"
+					],
+					[
+						"registra",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"login",
+						"resources\\views\\auth\\login.blade.php"
+					],
+					[
+						"registr",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"app",
+						"config\\app.php"
+					],
+					[
+						"services",
+						"config\\services.php"
+					],
+					[
+						"home",
+						"resources\\views\\customer\\store-home.blade.php"
+					],
+					[
+						"song",
+						"resources\\views\\customer\\song.blade.php"
+					],
+					[
+						"index",
+						"resources\\views\\albums\\index.blade.php"
+					],
+					[
+						"add",
+						"resources\\views\\albums\\add-songs.blade.php"
+					],
+					[
+						"paymnt.b",
+						"resources\\views\\customer\\payment.blade.php"
+					],
+					[
+						"album",
+						"resources\\views\\customer\\album.blade.php"
+					],
+					[
+						"crea",
+						"resources\\views\\songs\\create.blade.php"
+					],
+					[
+						"add.b",
+						"resources\\views\\albums\\add-songs.blade.php"
+					],
+					[
+						"create.b",
+						"resources\\views\\albums\\create.blade.php"
+					],
+					[
+						"front",
+						"app\\Http\\Controllers\\FrontendController.php"
+					],
+					[
+						"csrf",
+						"app\\Http\\Middleware\\VerifyCsrfToken.php"
+					],
+					[
+						"sslbypass",
+						"app\\Http\\Middleware\\SslBypass.php"
+					],
+					[
+						"kerne",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"cart.blade",
+						"resources\\views\\customer\\cart.blade.php"
+					],
+					[
+						"routes",
+						"app\\Http\\routes.php"
+					],
+					[
+						"verify",
+						"app\\Http\\Middleware\\VerifyCsrfToken.php"
+					],
+					[
+						"elo",
+						"config\\eloquent-oauth.php"
+					],
+					[
+						"finacne",
+						"resources\\views\\backend\\finances.blade.php"
+					],
+					[
+						"dash",
+						"resources\\views\\layouts\\dashboard.blade.php"
+					],
+					[
+						"sideb",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"index.blade",
+						"resources\\views\\users\\index.blade.php"
+					],
+					[
+						"",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"admin.bl",
+						"resources\\views\\backend\\admin.blade.php"
+					],
+					[
+						"sideba",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"kern",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"custome",
+						"resources\\views\\layouts\\customer.blade.php"
+					],
+					[
+						"main",
+						"bundles\\challenge\\controllers\\main.php"
+					],
+					[
+						"main.php",
+						"bundles\\challenge\\controllers\\main.php"
+					],
+					[
+						"miles",
+						"bundles\\eneza\\views\\widgets\\quiz_results_milestone_story.blade.php"
+					],
+					[
+						"take",
+						"bundles\\eneza\\views\\widgets\\take_quiz.blade.php"
+					],
+					[
+						"atta",
+						"bundles\\eneza\\models\\Attachment.php"
+					],
+					[
+						"regi",
+						"app\\Http\\Controllers\\RegistrationController.php"
+					],
+					[
+						"rou",
+						"app\\Http\\routes.php"
+					],
+					[
+						"scripts",
+						"public\\js\\scripts.js"
+					],
+					[
+						"master",
+						"resources\\views\\website\\layouts\\master.blade.php"
+					],
+					[
+						"veri",
+						"resources\\views\\website\\pages\\verify.blade.php"
+					],
+					[
+						"paybill.",
+						"resources\\views\\site\\pages\\paybill.blade.php"
+					],
+					[
+						"faceb",
+						"app\\Http\\Controllers\\FacebookAppController.php"
+					],
+					[
+						"albums",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"container",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"env",
+						".env"
+					],
+					[
+						"c",
+						"composer.json"
+					],
+					[
+						"face",
+						"app\\Http\\Controllers\\FacebookAppController.php"
+					],
+					[
+						"mai",
+						"config\\mail.php"
+					],
+					[
+						"sotres",
+						"app\\Http\\Controllers\\StoresController.php"
+					],
+					[
+						"store",
+						"app\\Store.php"
+					],
+					[
+						"stores",
+						"app\\Http\\Controllers\\StoresController.php"
+					],
+					[
+						"storescontroller",
+						"app\\controllers\\StoresController.php"
+					],
+					[
+						"bosh",
+						"XMPPHP\\BOSH.php"
+					],
+					[
+						"assign",
+						"bundles\\challenge\\models\\assign.php"
+					],
+					[
+						"user",
+						"app\\User.php"
+					],
+					[
+						"withdra",
+						"app\\Withdrawal.php"
+					],
+					[
+						"createwith",
+						"database\\migrations\\2015_05_29_000019_create_withdrawals_table.php"
+					],
+					[
+						"pay",
+						"resources\\views\\backend\\payment-method.blade.php"
+					],
+					[
+						"createstore",
+						"database\\migrations\\2015_03_10_125507_create_stores_table.php"
+					],
+					[
+						"roles",
+						"database\\seeds\\RolesTableSeeder.php"
+					],
+					[
+						"paymn",
+						"resources\\views\\backend\\payment-method.blade.php"
+					],
+					[
+						"comple",
+						"app\\views\\tab\\complete.blade.php"
+					],
+					[
+						"fina",
+						"resources\\views\\backend\\finances.blade.php"
+					],
+					[
+						"exce",
+						"config\\excel.php"
+					],
+					[
+						"index.bla",
+						"resources\\views\\folio\\index.blade.php"
+					],
+					[
+						"create.bl",
+						"resources\\views\\folio\\create.blade.php"
+					],
+					[
+						"gender",
+						"application\\actions\\gender.php"
+					],
+					[
+						"password",
+						"app\\Http\\Controllers\\Auth\\PasswordController.php"
+					],
+					[
+						"createuser",
+						"database\\migrations\\2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"createca",
+						"database\\migrations\\2015_05_07_221821_create_carts_table.php"
+					],
+					[
+						"creattr",
+						"database\\migrations\\2015_05_07_221422_create_transactions_table.php"
+					],
+					[
+						"edit",
+						"resources\\views\\users\\edit.blade.php"
+					],
+					[
+						"paybi",
+						"app\\views\\tab\\paybill.blade.php"
+					],
+					[
+						"done",
+						"app\\views\\tab\\done.blade.php"
+					],
+					[
+						"app.",
+						"config\\app.php"
+					],
+					[
+						"service",
+						"config\\services.php"
+					],
+					[
+						"servi",
+						"app\\config\\services.php"
+					],
+					[
+						"yellow",
+						"public\\dashboard\\dist\\css\\skins\\skin-yellow.css"
+					],
+					[
+						"compo",
+						"composer.json"
+					],
+					[
+						"so",
+						"app\\Http\\Controllers\\SongsController.php"
+					],
+					[
+						"side",
+						"resources\\views\\partials\\sidebar.blade.php"
+					],
+					[
+						"comp",
+						"composer.json"
+					],
+					[
+						"albun",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"createalb",
+						"database\\migrations\\2015_07_30_111838_create_albums_table.php"
+					],
+					[
+						"seeder",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"genres",
+						"database\\seeds\\GenresTableSeeder.php"
+					],
+					[
+						"genretable",
+						"database\\migrations\\2015_07_30_112154_create_genres_table.php"
+					],
+					[
+						"create",
+						"database\\migrations\\2015_07_30_113206_create_songs_table.php"
+					],
+					[
+						"das",
+						"resources\\views\\layouts\\dashboard.blade.php"
+					],
+					[
+						"shin",
+						"vendor\\caffeinated\\shinobi\\src\\Caffeinated\\Shinobi\\Traits\\ShinobiTrait.php"
+					],
+					[
+						"shino",
+						"vendor\\caffeinated\\shinobi\\src\\Caffeinated\\Shinobi\\Traits\\ShinobiTrait.php"
+					],
+					[
+						"create_so",
+						"database\\migrations\\2015_07_30_113206_create_songs_table.php"
+					],
+					[
+						"albu",
+						"database\\migrations\\2015_07_30_111838_create_albums_table.php"
+					],
+					[
+						"al",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"databa",
+						"database\\seeds\\DatabaseSeeder.php"
+					],
+					[
+						"database.php",
+						"config\\database.php"
+					],
+					[
+						"alb",
+						"app\\Http\\Controllers\\AlbumsController.php"
+					],
+					[
+						"homewo",
+						"bundles\\challenge\\actions\\homework.php"
+					],
+					[
+						"quiz",
+						"bundles\\eneza\\controllers\\quiz.php"
+					],
+					[
+						"sty",
+						"public\\dashboard\\css\\style.css"
+					],
+					[
+						"app.b",
+						"resources\\views\\layouts\\app.blade.php"
+					],
+					[
+						"auth",
+						"app\\Http\\Controllers\\Auth\\AuthController.php"
+					],
+					[
+						"reg",
+						"resources\\views\\auth\\register.blade.php"
+					],
+					[
+						"log",
+						"resources\\views\\auth\\login.blade.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 213.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 211,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

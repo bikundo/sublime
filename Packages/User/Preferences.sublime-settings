@@ -1,0 +1,25 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"bold",
+		"directwrite"
+	],
+	"font_size": 13,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 4,
+	"material_theme_accent_red": true,
+	"material_theme_bold_tab": true,
+	"overlay_scroll_bars": "enabled",
+	"spell_check": false,
+	"theme": "Material-Theme.sublime-theme",
+	"word_wrap": true
+}
